@@ -8,6 +8,7 @@ body {
   background-color: #d9dcd6;
 }
 
+/* This needed to be changed to semantic html to avoid repitition. <div> changed to <header> */
 header {
   padding: 20px;
   font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
@@ -16,15 +17,18 @@ header {
   color: #ffffff;
 }
 
+/* This change is relative to previous change of <div> to <header> */
 header h1 {
   display: inline-block;
   font-size: 48px;
 }
 
+/* This change is relative to previous change of <div> to <header> */
 header h1 .seo {
   color: #d9dcd6;
 }
 
+/* This change is relative to previous change of <div> to <header> */
 header nav {
   padding-top: 15px;
   margin-right: 20px;
@@ -33,10 +37,11 @@ header nav {
   font-size: 20px;
 }
 
+/* This change is relative to previous change of <div> to <header> */
 header nav ul {
   list-style-type: none;
 }
-
+/* This change is relative to previous change of <div> to <header> */
 header nav ul li {
   display: inline-block;
   margin-left: 25px;
