@@ -1,5 +1,4 @@
 * {
-  /* border: 2px solid red; */
   box-sizing: border-box;
   padding: 0;
   margin: 0;
@@ -202,7 +201,7 @@ p {
     "Lucida Sans", Arial, sans-serif;
   text-align: center;
 }
-
-.footer h2 {
-  font-size: 20px;
+/* Changed <div> to <footer> and <h2> to <h4> for Semantic purposes. Font-Size changed from 20px to 16px to adjust for heading attribute value going down two ranks to <h4>, from <h2> */
+.footer h4 {
+  font-size: 16px;
 }
