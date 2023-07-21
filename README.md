@@ -8,7 +8,7 @@ The primary motivation for this project was improve my HTML and CSS skills. My m
 
 ![Screenshot of Horiseon Webpage](./assets/images/Horiseon%20Webpage.png)
 
-1. Clone the repository using the 'git clone' followed by 'https://github.com/your-username/horiseon.git'
+1. Clone the repository using the 'git clone' followed by 'https://simonmagidenko.github.io/Module-1-Challenge-SemanticHTML/'
 2. Open the index.html file
 3. Explore the webpage
 
